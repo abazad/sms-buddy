@@ -1,0 +1,56 @@
+body {
+    font-family:"Trebuchet MS", Arial, Helvetica, sans-serif;
+}
+
+.logo {
+    width: 380px;
+    height: 120px;
+    background-image: url(img/logo.png);
+}
+
+.centrado {
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.contenedor {
+    width: 500px;
+    padding: 20px;
+    background-color: #fff;
+}
+
+.imgfondo {
+    background-position:center;
+    background-repeat:no-repeat;
+    padding: 10px;
+}
+
+.elementofrm {
+    border: 1px solid;
+    font-size: large;
+}
+
+button {
+    min-height: 40px;
+    min-width: 150px;
+    max-width: 200px;
+    background-color: #36C;
+    color:#FFF;
+}
+
+input {
+    padding: 7px;
+    border-color: #999;
+    width: 220px;
+}
+
+a, a:link, a:visited, a:active  {
+    text-decoration: none;
+    color: #336699;
+    font-weight: bold;
+}
+
+a:hover {
+    color:#993333;
+    text-decoration: underline;
+}
